@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZUBBY01
-- 👀 I’m interested in programming and Data science
+- 👀 I’m interested in Data Analysis, programming and Data science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on development of medical devices and medical applications
 - 📫 How to reach me @ ozuemazubike@gmail.com
